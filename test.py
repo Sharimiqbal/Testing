@@ -1,8 +1,5 @@
-# Version 1.0.3
+# Version 1.0.4
 class Calculator:
-
-    # def __init__(self, a, b): # Constructor
-    #     pass
 
     def add(self, num1, num2):
         return num1 + num2
