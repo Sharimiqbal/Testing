@@ -14,7 +14,7 @@ class Calculator:
         return num1 / num2
 
     def pow(self, num1, num2):
-        ksadlkajsdn
+        return num1**num2
 
 
 cal1 = Calculator()
