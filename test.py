@@ -13,7 +13,10 @@ class Calculator:
     def div(self, num1, num2):
         return num1 / num2
 
+    def pow(self, num1, num2):
+        ksadlkajsdn
 
 
 cal1 = Calculator()
 print(cal1.add(12, 13))
+print(cal1.pow(12, 2))
